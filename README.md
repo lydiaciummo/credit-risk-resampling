@@ -189,6 +189,6 @@ Lydia Ciummo - lydiaciummo@hotmail.com
 
 ---
 
-### License
+## License
 
 GNU General Public License v3.0
