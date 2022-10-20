@@ -172,3 +172,23 @@ The logistic regression model fit with the oversampled data performed the same w
 I think that how we evaluate the performance of the model does depend on the problem we are trying to solve. For example, if we are only trying to identify the "healthy" loans, the imbalanced data works just fine. However, if we are trying to identify the "high-risk" loans, I think it is better to use the resampled data.
 
 
+---
+
+## Technologies
+
+* Python 3.9
+* Python libraries: Scikit-learn, Pandas, Numpy, Pathlib
+* Machine learning models: Logistic Regression, Random Oversampling
+* Jupyter Lab and Jupyter Notebooks
+
+---
+
+## Contributors
+
+Lydia Ciummo - lydiaciummo@hotmail.com
+
+---
+
+### License
+
+GNU General Public License v3.0
